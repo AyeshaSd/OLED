@@ -4,6 +4,8 @@
  ## Pre-requisites
  This requires the u8x8 library to be added to the path below. 
  <code>C:\ProgramData\MATLAB\SupportPackages\R2019\3P.instrset\arduinoide.instrset\portable\sketchbook\libraries</code>
+ Obtain the U8g2 library at the Repo below, from Olikraus. 
+ https://github.com/olikraus/u8g2
  ## Install:
  Add the OLED folder to the MATLAB paths for it to work.
  
@@ -28,4 +30,11 @@
  <pre><code>		oled_lcd.setFont(u8x8_font_courR18_2x3_f);</code></pre>
  Utilize any font found in the U8x8 library (https://github.com/olikraus/u8g2/wiki/fntlist8x8).  
  Be mindful that some arduino boards' memory may not be large enough to support your selected font
- 
+
+Created with the  assistance of:
+MATHWORKS Hardware team tutorial
+https://www.mathworks.com/help/supportpkg/arduinoio/ug/add-lcd-library.html
+
+DHT22 Addon for MATLAB:
+https://www.mathworks.com/matlabcentral/fileexchange/72441-dht22-add-on-library-for-arduino
+
