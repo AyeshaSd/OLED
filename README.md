@@ -1,5 +1,5 @@
 # OLED
- This file is a basic addon for MATLAB to call the u8x8 library via the custom library method specified in the arduino support package. Tested the R2019b version
+ This file is a basic addon for MATLAB to call the u8x8 library via the custom library method specified in the arduino support package. Tested the R2020b version
  target is to drive a single LED display connected to an arduino board.
  ## Pre-requisites
  This requires the u8x8 library to be added to the path below. 
