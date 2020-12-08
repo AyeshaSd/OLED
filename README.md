@@ -3,7 +3,7 @@
  target is to drive a single LED display connected to an arduino board.
  ## Pre-requisites
  This requires the u8x8 library to be added to the path below. 
- <code>C:\ProgramData\MATLAB\SupportPackages\R2019\3P.instrset\arduinoide.instrset\portable\sketchbook\libraries</code>
+ <code>C:\ProgramData\MATLAB\SupportPackages\R2019\3P.instrset\arduinoide.instrset\portable\sketchbook\libraries</code>  
  Obtain the U8g2 library at the Repo below, from Olikraus. 
  https://github.com/olikraus/u8g2
  ## Install:
